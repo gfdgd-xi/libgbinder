@@ -1,0 +1,9 @@
+Package: libgbinder
+Version: 1.1.25
+Architecture: amd64
+Maintainer: Slava Monich <slava.monich@jolla.com>
+Installed-Size: 163
+Depends: libglibutil (>= 1.0.52), libc6 (>= 2.17), libglib2.0-0 (>= 2.37.3)
+Section: libs
+Priority: optional
+Description: Binder client library
